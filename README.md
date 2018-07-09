@@ -15,6 +15,9 @@ open in New Tab then its kind of pain.
 The button called as 'new tab' on editor, you just have to click on that and 
 it will automatically assign target="_blank" and rel="nofollow" to given link. 
 
+Support : Feel free to contact in case of any changes or modifications. I will be happy to help you.
+
 
 Ref : 
 (a) : https://stackoverflow.com/questions/39115564/wordpress-hook-filter-to-process-link-inside-a-post
+(b) : https://wordpress.stackexchange.com/questions/141344/add-button-in-tinymce-editor-to-insert-text
